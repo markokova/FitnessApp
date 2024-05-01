@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527667167517",
+    "project_id": "fitnesapp-80e97",
+    "storage_bucket": "fitnesapp-80e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527667167517:android:aea5000292bbd217f761f4",
+        "android_client_info": {
+          "package_name": "rma.lv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2KwCgvHGFlsr4n9xV6_amjtGBDFmSPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
