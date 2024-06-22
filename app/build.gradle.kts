@@ -69,9 +69,12 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-
     implementation("com.google.firebase:firebase-firestore:24.9.1")
     implementation("androidx.activity:activity-ktx:1.9.0")
     implementation("androidx.fragment:fragment-ktx:1.6.2")
     implementation("io.coil-kt:coil-compose:2.5.0")
+    implementation ("androidx.compose.ui:ui:1.6.7")
+    implementation ("androidx.compose.material:material:1.6.7")
+    implementation ("androidx.activity:activity-compose:1.9.0")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
 }
